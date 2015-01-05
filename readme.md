@@ -2,7 +2,7 @@ Hi!
 
 Thank for using my plugin. 
 
-For start you must config */pages/bbb/conecta.php and set your url server an salt.
+For start you must copy folder "bbb" to folder "mod" in your server, after you must configuring */pages/bbb/conecta.php and set your url server an salt.
 
 Example:
 
@@ -12,7 +12,7 @@ Example:
 //
 $server="test-install.blindsidenetworks.com/bigbluebutton/";
 
-/// Add secret of server - Escriba el cosido secreto del servidor
+/// Add secret of server - Escriba el codido secreto del servidor
 // Example salt - Codigo de ejemplo: 8cd8ef52e8e101574e400365b55e11a6
 
 $salt="8cd8ef52e8e101574e400365b55e11a6";
@@ -26,7 +26,7 @@ Hola!
 
 Gracias por usar mi plugin. 
 
-Para comenzar debes configurar */pages/bbb/conecta.php y escribir la url de tu servidor y su codigo de seguridad. 
+Para comenzar debes copiar la carpeta "bbb" a la carpeta "mod" en tu servidor, depues usted debe configurar */pages/bbb/conecta.php y escribir la url de tu servidor y su codigo de seguridad. 
 
 Ejemplo:
 
@@ -36,7 +36,7 @@ Ejemplo:
 //
 $server="test-install.blindsidenetworks.com/bigbluebutton/";
 
-/// Add secret of server - Escriba el cosido secreto del servidor
+/// Add secret of server - Escriba el codido secreto del servidor
 // Example salt - Codigo de ejemplo: 8cd8ef52e8e101574e400365b55e11a6
 
 $salt="8cd8ef52e8e101574e400365b55e11a6";
